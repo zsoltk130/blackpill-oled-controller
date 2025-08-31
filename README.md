@@ -9,6 +9,8 @@ It uses the [ssd1306](https://github.com/afiskon/stm32-ssd1306) library to displ
 
 ![Test procedure running on OLED](images/test_stm32.jpg)  
 *Display test procedure running, displayed on the SH1107 OLED via SPI.*
+![Display specs](images/display.jpg)
+*Display underside*
 
 ---
 
