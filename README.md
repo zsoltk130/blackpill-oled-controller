@@ -36,7 +36,7 @@ It uses the [ssd1306](https://github.com/afiskon/stm32-ssd1306) library to displ
 
 ## Software
 
-- **STM32CubeIDE** (project generated with CubeMX)  
+- **STM32CubeIDE** v1.19.0 
 - **HAL drivers** (SPI, GPIO)  
 - **ssd1306 library** for text/graphics rendering  
 
